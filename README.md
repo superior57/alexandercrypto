@@ -50,6 +50,7 @@
    </tr>
 </table>
 
+<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=alexandera73&theme=github&count_private=true" />
 [![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=alexandera73&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=alexandera73&theme=github&count_private=true)
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
