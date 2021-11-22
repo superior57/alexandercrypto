@@ -1,11 +1,11 @@
 <p align="center">
-  <img align="center" src="https://github.com/alexandera73/alexandera73/blob/master/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/noveltyz/noveltyz/blob/master/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alexandera73.alexandera73" />
-<img align="right" src="https://img.shields.io/github/followers/alexandera73?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=noveltyz.noveltyz" />
+<img align="right" src="https://img.shields.io/github/followers/noveltyz?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=alexandera73&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandera73&layout=compact&theme=merko&count_private=true" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=noveltyz&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noveltyz&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
@@ -44,7 +44,7 @@
    </tr>
 </table>
 
-<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=alexandera73&theme=github&count_private=true" />
+<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=noveltyz&theme=github&count_private=true" />
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
