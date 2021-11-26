@@ -8,7 +8,128 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangle-crypto&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
+## 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆
+- 𝗡𝗙𝗧 𝗠𝗶𝗻𝘁 𝗗𝗔𝗽𝗽𝘀
+<table>
+    <thead align="center">
+        <tr>
+            <td>PotatoPowerClue</td>
+            <td>CryptoPigs</td>
+            <td>DogePass</td>
+            <td>FunkiFoxes</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://mint.potatopower.club/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/PotatoPowerClub.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://cryptopigs.one/#/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
+            </a>
+        </td>           
+        <td>
+            <a href="https://nft.dogepass.io/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/DogePass.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://funkifoxes.com/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
+            </a>
+        </td>             
+    </tr>
+    <thead align="center">
+        <tr>
+            <td>CryptoSwords</td>
+            <td>ChubbyBunny</td>
+            <td>GekoSave</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://crypto-swords.com/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoSwords.png?raw=true" width="200">
+            </a>
+        </td>   
+        <td>
+            <a href="https://chubbybunnynft.com/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://gekosave.io/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="200">
+            </a>
+        </td>                     
+    </tr>   
+</table>
+
+- 𝗡𝗙𝗧 𝗠𝗮𝗿𝗸𝗲𝘁𝗽𝗹𝗮𝗰𝗲𝘀
+<table>
+    <thead align="center">
+        <tr>
+            <td>IgarataArtNFT</td>
+            <td>RabbitNFT</td>
+            <td>LunaChowNFT</td>
+            <td>GekoSaveAuction</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="http://18.188.94.167:5000/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/igaratanft.png?raw=true" width="200">
+            </a>
+        </td>        
+        <td>
+            <a href="https://rabbitnft.com/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/rabbitnft.png?raw=true" width="200">
+            </a>
+        </td> 
+        <td>
+            <a href="http://209.145.53.68:5000">
+                <img src="https://github.com/kroim/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
+            </a>
+        </td> 
+        <td>
+            <a href="https://gekosave.io/marketplace">
+                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave1.png?raw=true" width="200">
+            </a>
+        </td>     
+    </tr>
+</table>
+
+- 𝗗𝗘𝗫
+<table>
+    <thead align="center">
+        <tr>
+            <td>CosmicSwap</td>
+            <td>DDEXX INFO</td>
+            <td>MaticSwap</td>  
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://app.cosmicswap.finance/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
+            </a>
+        </td>          
+        <td>
+            <a href="http://analytics.ddexx.io">
+                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
+            </a>
+        </td>   
+        <td>
+            <a href="https://maticfront.web.app/farms">
+                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+            </a>
+        </td> 
+    </tr>  
+</table>
+
+## 𝑺𝒌𝒊𝒍𝒍𝒔
 <table>
   <tr>
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="100"></td>
@@ -56,12 +177,13 @@
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
 </table>
 
 <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=tangle-crypto&theme=github&count_private=true" />
 
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
+## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
