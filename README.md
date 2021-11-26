@@ -1,11 +1,11 @@
 <p align="center">
-  <img align="center" src="https://github.com/tangle-crypto/tangle-crypto/blob/master/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/alexandercrypto/alexandercrypto/blob/master/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tangle-crypto.tangle-crypto" />
-<img align="right" src="https://img.shields.io/github/followers/tangle-crypto?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alexandercrypto.alexandercrypto" />
+<img align="right" src="https://img.shields.io/github/followers/alexandercrypto?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=tangle-crypto&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tangle-crypto&layout=compact&theme=merko&count_private=true" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=alexandercrypto&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandercrypto&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
 ## 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆
@@ -132,7 +132,7 @@
 ## 𝑺𝒌𝒊𝒍𝒍𝒔
 <table>
   <tr>
-    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="100"></td>
+    <td><img src="https://res.cloudinary.com/teepublic/image/private/s--3ZjIytTm--/c_crop,x_10,y_10/c_fit,h_830/c_crop,g_north_west,h_1038,w_1038,x_-264,y_-104/l_upload:v1565806151:production:blanks:vdbwo35fw6qtflw9kezw/fl_layer_apply,g_north_west,x_-375,y_-215/b_rgb:262c3a/c_limit,f_auto,h_630,q_90,w_630/v1470823069/production/designs/625723_1.jpg" width="100"></td>
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="100"></td>
     <td><img src="https://cryptologos.cc/logos/uniswap-uni-logo.svg" width="100"></td>
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="100"></td>
@@ -181,7 +181,7 @@
   </tr>
 </table>
 
-<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=tangle-crypto&theme=github&count_private=true" />
+<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=alexandercrypto&theme=github&count_private=true" />
 
 ## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
 
