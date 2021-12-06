@@ -1,9 +1,9 @@
 <p align="center">
-  <img align="center" src="https://github.com/alexandercrypto/alexandercrypto/blob/master/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=alexandercrypto&show_icons=true&theme=merko&include_all_commits=true" alt="my github stats" width="420"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandercrypto&layout=compact&theme=merko&include_all_commits=true" alt="languages" height="165">
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexandercrypto&show_icons=true&theme=merko&include_all_commits=true" alt="my github stats" width="420"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandercrypto&layout=compact&theme=merko&include_all_commits=true" alt="languages" height="165">
+  <img align="center" src="https://github.com/alexandercrypto/alexandercrypto/blob/master/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alexandercrypto.alexandercrypto" />
