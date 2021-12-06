@@ -178,7 +178,6 @@
 
 ## 𝑾𝒉𝒂𝒕 𝑪𝒂𝒏 𝑫𝒐
 
-<div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  
 ### DApps & Online Betting Website
@@ -193,4 +192,11 @@
 ### Video Conference Web & Mobile application
 <br />
 
-</div>
+## 𝑪𝒐𝒏𝒕𝒂𝒄𝒕
+
+<a href="https://join.skype.com/invite/NHJuH9tCwZig">
+    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="mailto:alexandercrypto73@gmail.com">
+    <img src="https://img.shields.io/badge/email-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
