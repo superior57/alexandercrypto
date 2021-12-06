@@ -9,7 +9,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alexandercrypto.alexandercrypto" />
 <img align="right" src="https://img.shields.io/github/followers/alexandercrypto?label=Follow&style=social" />
 <h1 align="center"></h1>
-<br />
 
 ## 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆
 - 𝗡𝗙𝗧 𝗠𝗶𝗻𝘁 𝗗𝗔𝗽𝗽𝘀
