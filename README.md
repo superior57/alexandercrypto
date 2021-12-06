@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexandercrypto&show_icons=true&theme=merko&include_all_commits=true" alt="my github stats" width="420"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandercrypto&layout=compact&theme=merko&include_all_commits=true" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexandercrypto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" width="420"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandercrypto&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="165">
 </p>
 
 <!-- <p align="center">
