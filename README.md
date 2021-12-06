@@ -1,16 +1,7 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alexandercrypto.alexandercrypto" />
-<img align="right" src="https://img.shields.io/github/followers/alexandercrypto?label=Follow&style=social" />
-<h1 align="center"></h1>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=alexandercrypto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="my github stats" width="420"/>&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandercrypto&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="languages" height="165">
 </p>
 
-<!-- <p align="center">
-  <img align="center" src="https://github.com/alexandercrypto/alexandercrypto/blob/master/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
-</p> -->
-
-## 𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒆
 - 𝗡𝗙𝗧 𝗠𝗶𝗻𝘁 𝗗𝗔𝗽𝗽𝘀
 <table>
     <thead align="center">
